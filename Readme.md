@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=PARAS%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20C%2B%2B%20%26%20DSA&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=PARAS%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20C%2B%2B%20and%20DSA%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Systems;Engineering+AI-Powered+Products;Full+Stack+Development;Data+Structures+%26+Algorithms;Turning+Ideas+Into+Production-Ready+Products">
