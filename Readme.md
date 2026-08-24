@@ -243,29 +243,15 @@ Focused on developing practical software engineering capabilities through struct
 
 ## Certifications
 
-### AWS
+### NPTEL — Generative AI
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-6D28D9?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technical%20Learning-4C1D95?style=flat-square&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Academic%20Certification-312E81?style=flat-square&logo=google-scholar&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Learning-4338CA?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Generative%20AI-4C1D95?style=flat-square&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Currently%20Pursuing-7C3AED?style=flat-square"/>
 
 ### Additional Programs
 
-<img src="https://img.shields.io/badge/Google-AI%2FML-6D28D9?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Goldman%20Sachs-Forage-4C1D95?style=flat-square&logo=goldmansachs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering-312E81?style=flat-square&logo=jpmorgan&logoColor=white"/>
-
----
+- Google AI/ML Virtual Internship
+- JPMorgan Chase Software Engineering Virtual Experience
 
 ## Coding Profiles
 
