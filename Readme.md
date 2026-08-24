@@ -333,7 +333,7 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/parasjn89/parasjn89/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/parasjn89/parasjn89/main/profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
