@@ -295,9 +295,10 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=parasjn89&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjn89&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E9D5FF&langs_count=8"/>
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+</p>
 
 <br/><br/>
 
@@ -311,8 +312,9 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parasjn89&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
+</p>
 </div>
 
 ---
