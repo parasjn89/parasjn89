@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Graduating-2027-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-DSA-312E81?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delhi%2C%20India-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Indore%2C%20Madhya Pradesh-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
