@@ -83,13 +83,13 @@ I am particularly interested in building intelligent software products where **A
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel,cloudinary" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
