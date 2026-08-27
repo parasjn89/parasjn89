@@ -142,6 +142,18 @@ A full-stack platform designed to streamline the process of reporting, discoveri
 **Core Skills:** `React` `Node.js` `Express` `MongoDB` `REST API` `JWT` `Tailwind CSS`
 
 </details>
+<details>
+<summary><strong>Journal — Full-Stack Blogging Platform</strong></summary>
+
+<br/>
+
+A full-stack blogging platform with authentication, CRUD operations, REST APIs, routing, and pagination.
+
+<strong>Tech Stack:</strong> React, Vite, Express.js, Sequelize, PostgreSQL
+
+🔗 <strong><a href="https://github.com/parasjn89/journal">View Project</a></strong>
+
+</details>
 
 <details>
 <summary><strong>AI-Powered Software Engineering Projects</strong></summary>
