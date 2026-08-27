@@ -147,11 +147,55 @@ A full-stack platform designed to streamline the process of reporting, discoveri
 
 <br/>
 
-A full-stack blogging platform with authentication, CRUD operations, REST APIs, routing, and pagination.
+A full-stack blogging platform designed for creating, managing, and reading blog posts through a modern web application.
 
-<strong>Tech Stack:</strong> React, Vite, Express.js, Sequelize, PostgreSQL
+<table>
+<tr>
+<th>Attribute</th>
+<th>Details</th>
+</tr>
 
-🔗 <strong><a href="https://github.com/parasjn89/journal">View Project</a></strong>
+<tr>
+<td><strong>Stack</strong></td>
+<td>React · Vite · Express.js · Sequelize · PostgreSQL</td>
+</tr>
+
+<tr>
+<td><strong>Scale</strong></td>
+<td>Full-stack web application architecture</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>RESTful APIs · Express.js · Sequelize</td>
+</tr>
+
+<tr>
+<td><strong>Database</strong></td>
+<td>PostgreSQL</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React · Vite</td>
+</tr>
+
+<tr>
+<td><strong>Repository</strong></td>
+<td><a href="https://github.com/parasjn89/journal">GitHub</a></td>
+</tr>
+</table>
+
+### Engineering Scope
+
+- Built a full-stack blogging platform with separate frontend and backend.
+- Developed REST APIs using Express.js.
+- Implemented database operations using Sequelize and PostgreSQL.
+- Built the frontend using React and Vite.
+- Structured the application into maintainable frontend and backend layers.
+- Implemented core blogging functionality for creating and managing posts.
+
+<strong>Core Skills:</strong> React · Vite · Express.js · Sequelize · PostgreSQL · REST API
 
 </details>
 
