@@ -308,7 +308,7 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasjn89&bg_color=0D0B1A&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Paras%20Jain's%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<img src="./profile/activity.svg" width="100%" alt="Contribution Activity"/>
 
 </div>
 
