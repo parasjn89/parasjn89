@@ -288,7 +288,6 @@ Focused on developing practical software engineering capabilities through struct
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=parasjn89&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=E9D5FF&sideNums=E9D5FF" />
 
 </div>
 
@@ -309,7 +308,7 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasjn89&bg_color=0D0B1A&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasjn89&bg_color=0D0B1A&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Paras%20Jain's%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
