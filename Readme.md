@@ -198,6 +198,67 @@ A full-stack blogging platform designed for creating, managing, and reading blog
 <strong>Core Skills:</strong> React · Vite · Express.js · Sequelize · PostgreSQL · REST API
 
 </details>
+<details>
+<summary><strong>FocusLens — AI-Powered Focus & Productivity Monitor</strong> 🚧</summary>
+
+<br/>
+
+A privacy-first AI productivity application that analyzes focus and study activity while keeping raw webcam, screen, and audio data on the user's device.
+
+<table>
+<tr>
+<th>Attribute</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td><strong>Status</strong></td>
+<td>🚧 In Development</td>
+</tr>
+
+<tr>
+<td><strong>Stack</strong></td>
+<td>React · Fastify · PostgreSQL · Drizzle ORM</td>
+</tr>
+
+<tr>
+<td><strong>AI / Vision</strong></td>
+<td>MediaPipe · Browser-based computer vision · Web Audio API</td>
+</tr>
+
+<tr>
+<td><strong>Architecture</strong></td>
+<td>Client-side AI processing + REST API + PostgreSQL</td>
+</tr>
+
+<tr>
+<td><strong>Security</strong></td>
+<td>HTTP-only authentication · IDOR protection · Privacy Guard</td>
+</tr>
+
+<tr>
+<td><strong>Privacy</strong></td>
+<td>Raw webcam, screen and audio data never leaves the device</td>
+</tr>
+
+<tr>
+<td><strong>Repository</strong></td>
+<td><a href="https://github.com/parasjn89/Focus-Lens">GitHub</a></td>
+</tr>
+</table>
+
+### Current Focus
+
+- Building browser-based focus and activity detection.
+- Implementing privacy-first local media processing.
+- Developing focus session tracking and analytics.
+- Building authentication and secure REST APIs.
+- Integrating PostgreSQL with Drizzle ORM.
+- Improving reliability with offline session caching.
+
+<strong>Core Skills:</strong> React · Fastify · PostgreSQL · Drizzle ORM · MediaPipe · REST API · Computer Vision
+
+</details>
 
 <details>
 <summary><strong>AI-Powered Software Engineering Projects</strong></summary>
@@ -227,6 +288,7 @@ A growing portfolio of AI/ML experiments and applications focused on understandi
 **Core Skills:** `Python` `Machine Learning` `Generative AI` `APIs` `AI Engineering`
 
 </details>
+
 
 <details>
 <summary><strong>Data Structures & Algorithms Practice</strong></summary>
