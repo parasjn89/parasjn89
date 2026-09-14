@@ -126,7 +126,7 @@ A full-stack platform designed to streamline the process of reporting, discoveri
 | **Performance** | RESTful APIs · Efficient database operations · Responsive UI |
 | **Security** | JWT Authentication · Protected API routes · Input validation |
 | **Impact** | Digitizes lost-and-found workflows and improves item discovery |
-| **Repository** | [GitHub](https://github.com/parasjn89/ReclaimIt) |
+| **Repository** | [GitHub](https://github.com/parasjn89/Project-ReclaimIt) |
 
 ### Engineering Scope
 
