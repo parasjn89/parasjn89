@@ -199,7 +199,7 @@ A full-stack blogging platform designed for creating, managing, and reading blog
 
 </details>
 <details>
-<summary><strong>FocusLens — AI-Powered Focus & Productivity Monitor</strong> 🚧</summary>
+<summary><strong>FocusLens — AI-Powered Focus & Productivity Monitor</strong></summary>
 
 <br/>
 
@@ -213,7 +213,7 @@ A privacy-first AI productivity application that analyzes focus and study activi
 
 <tr>
 <td><strong>Status</strong></td>
-<td>🚧 In Development</td>
+<td>✅ Completed</td>
 </tr>
 
 <tr>
@@ -246,6 +246,24 @@ A privacy-first AI productivity application that analyzes focus and study activi
 <td><a href="https://github.com/parasjn89/Focus-Lens">GitHub</a></td>
 </tr>
 </table>
+
+### Engineering Scope
+
+- Built a browser-based focus and productivity monitoring application.
+- Implemented local computer vision using MediaPipe.
+- Added webcam-based face, person, phone and head-orientation analysis.
+- Implemented screen activity classification and audio VAD processing.
+- Designed a privacy-first architecture where raw media remains on-device.
+- Built REST APIs using Fastify.
+- Integrated PostgreSQL using Drizzle ORM.
+- Implemented HTTP-only cookie authentication and session ownership checks.
+- Added Privacy Guard protection against raw media payloads.
+- Implemented offline session caching and background synchronization.
+- Added automated tests for authentication, security and privacy features.
+
+<strong>Core Skills:</strong> React · Fastify · PostgreSQL · Drizzle ORM · MediaPipe · Computer Vision · REST API · Authentication · Web Audio API
+
+</details>
 
 ### Current Focus
 
