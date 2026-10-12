@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=parasjn89&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=parasjn89&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/parasjn89?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
 <img src="https://img.shields.io/github/stars/parasjn89?label=STARS&style=for-the-badge&color=312E81"/>
 
